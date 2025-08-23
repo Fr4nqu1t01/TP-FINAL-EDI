@@ -27,7 +27,7 @@ function ej2() {
 /*3) Realiza un script que muestre por pantalla los valores pares que se encuentran entre los 
 números 500 y 1000*/
 function ej3() {
-  for (let i = 500; i <= 850; i = i + 2) {
+  for (let i = 500; i <= 1000; i = i + 2) {
     console.log(i);
   }
 }
